@@ -1,0 +1,72 @@
+[
+{
+  "id": "0",
+  "productName": "Iphone X 64GB",
+  "image": "apple-iphone-x-64-gb-serebristyj.jpg",
+  "screen": "5.8-inch, 2436x1125",
+  "ram": "3GB",
+  "storage": "64 GB",
+  "mainCamera": "12 Mp + 12 Mp",
+  "frontCamera": "7 Mp",
+  "system": "IOS",
+  "sim": "Nano-SIM",
+  "price": "1100",
+  "description": "We always dreamed of making the iPhone one large display. So impressive display that you forgot about the physical device. And so smart a device that it responds to touch, word, and even glance. iPhone X makes your dream come true.\nThis is the smartphone of the future."
+},
+{
+"id": "1",
+"productName": "OnePlus 6T ",
+"image": "oneplus-6t-6128gb-mirror-black.jpg",
+  "screen": "6.41-inch, 2280x1080",
+  "ram": "6GB",
+  "storage": "128 GB",
+  "mainCamera": "16 Mp",
+  "frontCamera": "20 Mp",
+  "system": "Android 9.0, Oxygen",
+  "sim": "Nano-SIM",
+  "price": "640",
+  "description": "The updated design of OnePlus 6T with a drop-like neckline at the top of the screen favorably distinguishes this smartphone compared to other similar flagships. He has his own character and a bright personality. Wrapped in sturdy glass of Corning Gorilla Glass 6, this smartphone is simply fascinating for its glossy shine, elegance of lines and elegance of forms. And at the same time it is reliably protected from scratches and minor damages."
+},
+{
+"id": "2",
+"productName": " Xiaomi Mi Mix 3",
+"image": "xiaomi-mi-mix-3-6128gb-onyx-black-ua.jpg",
+  "screen": "6.39-inch, 2340x1080",
+  "ram": "6GB",
+  "storage": "128 GB",
+  "mainCamera": "12Mp + 12Mp",
+  "frontCamera": "24 Mp",
+  "system": "Android 9.0",
+  "sim": "Nano-SIM",
+  "price": "620",
+  "description": "Mi Mix 3 is the flagship of the Mi Mix line, the diagonal of the Super Amoled display is 6.39 inches (2340 × 1080 pixels resolution with a density of 403 ppi). The body is made of ceramics, which is reinforced with a frame of aviation aluminum. This structure ensures durability and scratch resistance on the case. The thoughtful laconic design of the smartphone emphasizes the individuality and sophistication of its owner."
+ },
+{
+"id": "3",
+  "productName": "Samsung Galaxy Note 9",
+  "image": "samsung-galaxy-note-9-2018-128gb-black-sm-n960fzkdsek-ua.jpg",
+  "screen": "6.4-inch, 2960x1440",
+  "ram": "6GB",
+  "storage": "128 GB",
+  "mainCamera": "12Mp + 12Mp",
+  "frontCamera": "8 Mp",
+  "system": "Android 8.1 + Samsung Experience",
+  "sim": "Nano-SIM",
+  "price": "1060",
+  "description":"Galaxy Note is the embodiment of the most powerful innovative technologies that are created for those who always strive for more. The new Galaxy Note 9 exceeded even the highest expectations. In it, we focused on what is really important in the world of modern mobile technologies."
+},
+  {
+"id": "4",
+    "productName": "Meizu 16th ",
+    "image": "meizu-16th-8128gb-aurora-blue.jpg",
+    "screen": "6-inch, 2160x1080",
+    "ram": "8GB",
+    "storage": "128 GB",
+    "mainCamera": "12Mp + 20Mp",
+    "frontCamera": "20 Mp",
+    "system": "Android 8.1",
+    "sim": "Nano-SIM",
+    "price": "480",
+    "description":"Enchantingly bright and almost “lively” screen of the Meizu 16th with a diagonal of 6 inches and an aspect ratio of 18: 9 will make you look in a new way at the world around. It occupies 91.18% of the front panel and is almost devoid of frames. AMOLED-matrix provides a colorful picture, and the resolution of 2K (2160x1080 pixels) allows you to see even the smallest details of images."
+}
+]
